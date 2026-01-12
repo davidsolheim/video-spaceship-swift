@@ -77,3 +77,25 @@ This project is built using the Swift Package Manager.
     - `swift-async-algorithms`: For advanced asynchronous operations.
     - `swift-log`: For structured logging.
 
+
+
+## Advanced Features (v2)
+
+This version includes the full feature set from the roadmap, including:
+
+- **Floating Control Bar**: A persistent on-screen panel for controlling recordings.
+- **Recording Recovery**: Automatic recovery of interrupted or crashed recordings.
+- **Region Selection**: Select a custom area of the screen to record.
+- **Global Hotkeys**: System-wide keyboard shortcuts for all major actions.
+- **Video Editing**: Basic trimming and cutting capabilities.
+- **Visual Enhancements**: Cursor highlighting, click effects, and keystroke display.
+- **Share Links**: Generate password-protected, expiring links for cloud recordings.
+- **Team Collaboration**: Shared workspaces and team member management.
+- **Platform Integrations**: Direct uploads to YouTube, Vimeo, Google Drive, and Dropbox.
+- **Auto-Transcription**: On-device transcription with SRT/VTT export.
+- **Smart Chapters**: Automatic chapter detection based on scene changes, silence, and topics.
+- **Silence Removal**: Automatically remove dead air from recordings.
+
+## Testing
+
+A comprehensive testing plan is in place to ensure the quality and reliability of the application. See [TESTING.md](TESTING.md) for details on unit, integration, UI, and performance testing.
